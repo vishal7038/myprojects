@@ -1,0 +1,63 @@
+INPUT
+{
+    BORDER-RIGHT: gray 1pt solid;
+    BORDER-TOP: gray 1pt solid;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: gray 1pt solid;
+    BORDER-BOTTOM: gray 1pt solid;
+    FONT-FAMILY: Tahoma, Verdana
+}
+.lbl
+{
+    FONT-SIZE: 70%;
+    COLOR: black;
+    FONT-FAMILY: Tahoma, Verdana, Arial;
+    TEXT-ALIGN: right
+}
+.titlebar
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 75%;
+    COLOR: white;
+    TEXT-INDENT: 5pt;
+    LINE-HEIGHT: 19pt;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    //BACKGROUND-COLOR: #336699;
+    BACKGROUND-COLOR: #99CC33
+}
+.bkg
+{
+    //BACKGROUND-COLOR: #eaeadc;
+    BACKGROUND-COLOR: #99CC33
+
+}
+.button
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Tahoma, Verdana, Arial;
+    BACKGROUND-COLOR: #dfdad7
+}
+.action
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    //COLOR: #006633;
+    COLOR: #99CC33;
+    FONT-FAMILY: Tahoma, Verdana, Arial;
+    //BACKGROUND-COLOR: #dfdad7;
+	BACKGROUND-COLOR: #99CC33
+
+}
+SELECT
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Tahoma, v, Arial
+}
+Body
+{
+	background: whitesmoke;
+}
+.plain {height:20; border:1px solid gray; text-align:center}
+.vbtn {height:20; width:22; font:bold 10pt arial; border:1px solid gray}

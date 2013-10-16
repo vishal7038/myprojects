@@ -1,0 +1,104 @@
+.CalHead
+{
+    FONT: bold 7.5pt Tahoma, Verdana, sans-serif;
+    CURSOR: default;
+    COLOR: white;
+    TEXT-ALIGN: center
+}
+.CalCell
+{
+    CURSOR: hand;
+    TEXT-ALIGN: center
+}
+.CellAnchor
+{
+    FONT: 9pt verdana;
+    TEXT-DECORATION: none
+}
+.WeekHead
+{
+    FONT: bold 10pt arial;
+    CURSOR: default;
+    COLOR: cyan;
+    TEXT-ALIGN: center
+}
+.WeekCol
+{
+    BACKGROUND: cyan;
+    FONT: bold 9pt arial;
+    CURSOR: default;
+    TEXT-ALIGN: center
+}
+.MonthNav
+{
+    FONT: bold 10pt arial bold;
+    VERTICAL-ALIGN: middle;
+    WIDTH: 18px;
+    COLOR: black;
+    HEIGHT: 22px
+}
+A.MonthNav:hover
+{
+    COLOR: yellow
+}
+A.MonthNav:active
+{
+    COLOR: red
+}
+.CalTop
+{
+    TEXT-ALIGN: center
+}
+.CalMiddle
+{
+}
+.CalBottom
+{
+    TEXT-ALIGN: center
+}
+.CalTitle
+{
+    FONT: 10pt arial;
+    VERTICAL-ALIGN: middle;
+    COLOR: black
+}
+.FreeDiv
+{
+}
+#outerTable
+{
+    //BORDER-RIGHT: #ffffff 2px ridge;
+    BORDER-RIGHT: #99CC33 2px ridge;
+    BORDER-TOP: #99CC33 2px ridge;
+    BORDER-LEFT: #99CC33 2px ridge;
+    BORDER-BOTTOM: #99CC33 2px ridge
+}
+#innerDiv
+{
+    //BORDER-RIGHT: #dcdcdc 1px solid;
+    BORDER-RIGHT: #99CC33 1px solid;  
+    BORDER-TOP: #99CC33 1px solid;
+    BORDER-LEFT: #99CC33 1px solid;
+    BORDER-BOTTOM: #99CC33 1px solid
+}
+.Today
+{
+    FONT: bold 9pt Tahoma, Verdana;
+    COLOR: white;
+    TEXT-DECORATION: none
+}
+A.Today:hover
+{
+    COLOR: yellow
+}
+A.Today:active
+{
+    COLOR: red
+}
+INPUT
+{
+    BORDER-RIGHT: gray 1px solid;
+    BORDER-TOP: gray 1px solid;
+    BORDER-LEFT: gray 1px solid;
+    BORDER-BOTTOM: gray 1px solid
+}

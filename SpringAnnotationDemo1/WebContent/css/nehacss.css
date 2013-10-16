@@ -1,0 +1,316 @@
+img, div { behavior: url(iepngfix.htc) }
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+}
+.bgmain {
+	background-color: #efefef;
+	background-image: url(../images/bg.jpg);
+	background-repeat: repeat-x;
+	text-align: center;
+}
+
+.logo {
+	text-align: left;
+	width: 161px;
+}
+.icons {
+	text-align: right;
+	width: 150px;
+}
+.icons td {
+	padding: 5px;
+	text-align: center;
+}
+
+.height15 {
+	height: 15px;
+}
+.height22 {
+	height: 22px;
+}
+.menubg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	background-image: url(../images/menu_bg.jpg);
+	text-align: left;
+}
+.menubg .menulinks {
+	padding: 5px;
+	width: 60px;
+	text-align: center;
+}
+.menubg .menulinks a {
+	color: #F87604;
+	text-align: center;
+	text-decoration: none;
+}
+.menubg .sep {
+	width: 2px;
+}
+.tableproducts {
+}
+.tableproducts td {
+	text-align: center;
+	width: 16%;
+}
+.height9 {
+	height: 9px;
+}
+.table1 {
+	margin-top: 22px;
+}
+
+.table1bg {
+	background-image: url(../images/table1_bg.jpg);
+	padding: 10px;
+	width: 403px;
+	text-align: justify;
+	vertical-align: top;
+}
+.table1bg h1 {
+	font-weight: bold;
+	color: #F48325;
+	text-decoration: none;
+	font-size: 12px;
+}
+.table2 {
+	margin-top: 10px;
+	margin-bottom: 17px;
+}
+.table2bg {
+	background-color: #f2f2f2;
+	background-image: url(../images/table2_bg.jpg);
+	background-repeat: no-repeat;
+}
+.table3bg {
+	background-image: url(../images/table3_bg.jpg);
+	padding: 10px;
+	text-align: justify;
+	vertical-align: top;
+}
+.table3bg h1 {
+	font-weight: bold;
+	color: #F48325;
+	text-decoration: none;
+	font-size: 12px;
+}
+.content {
+	text-align: justify;
+	vertical-align: top;
+}
+.sublink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+}
+
+.content li {
+	list-style-image: url(../images/arrow2.gif);
+	line-height: 16px;
+}
+
+
+.bgbott {
+	background-image: url(../images/bgbott.jpg);
+	background-repeat: repeat-x;
+	height: 120px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 10px;
+	vertical-align: top;
+}
+.formfields {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #F4D8C6;
+	border: 1px dotted #999999;
+}
+.heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F87604;
+	text-decoration: none;
+	border: 0px dotted #999999;
+	font-weight: bold;
+	font-variant: normal;
+}
+.bgmain .errors {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+}
+.bgmain .datatable {
+	margin-top: 3px;
+	border-spacing: 1px;
+	
+}
+
+.bgmain .outertable{
+	margin-top: 0px;
+	border-spacing: 0px;
+}
+
+.dateButton {
+	background-color: #FFFFFF;
+	background-image: url(/FSMIS/images/icon_calendar.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	border: 0px none #FFFFFF;
+	height: 17px;
+	width: 17px;
+}
+
+
+.datatable {
+	background-color: #CCCCCC;
+}
+.datatable input {
+	color: #333333;
+	text-decoration: none;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px solid #999999;
+	font-size: 11px;
+}
+.datatable select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #999999;
+}
+.datatable textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #999999;
+}
+
+.datatable td {
+	background-color: #FFFFFF;
+	padding:1px;
+}
+
+table.tableBorder {
+	border-width: 1px;
+	border-spacing: 2px;
+	border-style: outset;
+	border-color: #D6D6D8;
+	border-collapse: collapse;
+	background-color: white;
+}
+table.tableBorder th {
+	border-width: 1px;
+	padding: 5px;
+	border-style: inset;
+	border-color: #D6D6D8;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.tableBorder td {
+	border-width: 0px;
+	padding: 5px;
+	border-style: solid;
+	border-color:#D6D6D8;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+/*This is used for main tile of the page */
+.maintitle {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 17px;
+	color: #F48325;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: left;
+	width: 300px;
+}
+/*This is used for Table header field*/
+.pagetitle
+{
+	background-image: url(/FSMIS/images/menu_bg.jpg);
+	height: 23px;
+	text-align: left;
+	font-family: Georgia, "Times New Roman" , Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #F48325;
+	text-indent: 0px;
+	padding: 5px;
+	white-space: nowrap;
+}
+.tabletitle
+{
+	background-image: url(/FSMIS/images/menu_bg.jpg);
+	height: 23px;
+	text-align: left;
+	font-family: Georgia, "Times New Roman" , Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #F48325;
+	text-indent: 0px;
+	padding: 5px;
+	white-space: nowrap;
+}
+/*This is used for sub title of the page*/
+.title
+{
+	height: 23px;
+	text-align: left;
+	font-family: Georgia, "Times New Roman" , Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #F48325;
+	text-indent: 5px;
+	padding: 5px;
+}
+.table_fields { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000}
+.flat_fields
+{
+	Background: #ffffff;
+	font-size: 12px;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px solid #666666;
+}
+table.tableAllBorder {
+	border-width: 0px;
+	border-spacing: 2px;
+	border-style: outset;
+	border-color: #D6D6D8;
+	border-collapse: collapse;
+	background-color: white;
+}
+table.tableAllBorder th {
+	border-width: 1px;
+	padding: 5px;
+	border-style: inset;
+	border-color: #D6D6D8;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.tableAllBorder td {
+	border-width: 0px;
+	border-bottom:thin;
+	padding: 5px;
+	border-style: solid;
+	border-color:#D6D6D8;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
