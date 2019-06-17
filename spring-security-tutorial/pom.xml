@@ -13,7 +13,7 @@
     
     <spring.core.version>4.3.18.RELEASE</spring.core.version>
     <spring.security.core.version>4.3.18.RELEASE</spring.security.core.version>
-	<spring.data.jpa.version>1.1.0.M1</spring.data.jpa.version>
+	<spring.data.jpa.version>1.11.22</spring.data.jpa.version>
     
   	<cglib.version>2.2</cglib.version>
   	<aspectj.version>1.6.10</aspectj.version>
